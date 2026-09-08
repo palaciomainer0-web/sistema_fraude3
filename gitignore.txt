@@ -1,0 +1,10 @@
+# Cache de Python
+__pycache__/
+*.py[cod]
+
+# Archivo de datos local (para no sobreescribir datos reales en el repo)
+transacciones.json
+
+# Entornos virtuales
+venv/
+.venv/
